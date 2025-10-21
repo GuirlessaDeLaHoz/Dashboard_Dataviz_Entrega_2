@@ -1,0 +1,12 @@
+dash
+pandas
+plotly
+dash-bootstrap-components
+dash-table
+gunicorn
+matplotlib
+streamlit
+seaborn
+streamlit_option_menu
+
+
